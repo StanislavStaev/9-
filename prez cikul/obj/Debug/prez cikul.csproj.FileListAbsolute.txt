@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\prez cikul\bin\Debug\prez cikul.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\prez cikul\bin\Debug\prez cikul.exe
+C:\Users\1409-10\Desktop\Станислав 9а\prez cikul\bin\Debug\prez cikul.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\prez cikul\obj\Debug\prez cikul.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\prez cikul\obj\Debug\prez cikul.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\prez cikul\obj\Debug\prez cikul.exe
+C:\Users\1409-10\Desktop\Станислав 9а\prez cikul\obj\Debug\prez cikul.pdb

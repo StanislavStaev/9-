@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\krug\obj\Debug\krug.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\krug\obj\Debug\krug.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\krug\bin\Debug\krug.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\krug\bin\Debug\krug.exe
+C:\Users\1409-10\Desktop\Станислав 9а\krug\bin\Debug\krug.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\krug\obj\Debug\krug.exe
+C:\Users\1409-10\Desktop\Станислав 9а\krug\obj\Debug\krug.pdb

@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\vlagane\vlagane\bin\Debug\vlagane.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\vlagane\vlagane\bin\Debug\vlagane.exe
+C:\Users\1409-10\Desktop\Станислав 9а\vlagane\vlagane\bin\Debug\vlagane.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\vlagane\vlagane\obj\Debug\vlagane.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\vlagane\vlagane\obj\Debug\vlagane.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\vlagane\vlagane\obj\Debug\vlagane.exe
+C:\Users\1409-10\Desktop\Станислав 9а\vlagane\vlagane\obj\Debug\vlagane.pdb

@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\trapec\bin\Debug\trapec.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\trapec\bin\Debug\trapec.exe
+C:\Users\1409-10\Desktop\Станислав 9а\trapec\bin\Debug\trapec.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\trapec\obj\Debug\trapec.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\trapec\obj\Debug\trapec.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\trapec\obj\Debug\trapec.exe
+C:\Users\1409-10\Desktop\Станислав 9а\trapec\obj\Debug\trapec.pdb
