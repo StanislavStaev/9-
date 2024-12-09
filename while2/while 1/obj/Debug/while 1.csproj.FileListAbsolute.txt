@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\while 1\bin\Debug\while 1.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\while 1\bin\Debug\while 1.exe
+C:\Users\1409-10\Desktop\Станислав 9а\while 1\bin\Debug\while 1.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\while 1\obj\Debug\while 1.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\while 1\obj\Debug\while 1.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\while 1\obj\Debug\while 1.exe
+C:\Users\1409-10\Desktop\Станислав 9а\while 1\obj\Debug\while 1.pdb

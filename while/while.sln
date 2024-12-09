@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while", "while.csproj", "{D9C01C39-B458-4245-8B16-71C341124F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while 1", "..\while 1\while 1.csproj", "{B902033F-EF74-4934-8859-02EF9AED1B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while2", "..\while2\while2.csproj", "{8B0BF50F-0F12-4315-A553-5F5C7E75A310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C01C39-B458-4245-8B16-71C341124F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C01C39-B458-4245-8B16-71C341124F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C01C39-B458-4245-8B16-71C341124F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C01C39-B458-4245-8B16-71C341124F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B902033F-EF74-4934-8859-02EF9AED1B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B902033F-EF74-4934-8859-02EF9AED1B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B902033F-EF74-4934-8859-02EF9AED1B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B902033F-EF74-4934-8859-02EF9AED1B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0BF50F-0F12-4315-A553-5F5C7E75A310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0BF50F-0F12-4315-A553-5F5C7E75A310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0BF50F-0F12-4315-A553-5F5C7E75A310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0BF50F-0F12-4315-A553-5F5C7E75A310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
