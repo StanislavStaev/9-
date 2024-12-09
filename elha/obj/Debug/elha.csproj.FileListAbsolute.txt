@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\elha\bin\Debug\elha.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\elha\bin\Debug\elha.exe
+C:\Users\1409-10\Desktop\Станислав 9а\elha\bin\Debug\elha.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\elha\obj\Debug\elha.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\elha\obj\Debug\elha.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\elha\obj\Debug\elha.exe
+C:\Users\1409-10\Desktop\Станислав 9а\elha\obj\Debug\elha.pdb

@@ -1,0 +1,14 @@
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\bin\Debug\net8.0\ConssoleApp1.exe
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\bin\Debug\net8.0\ConssoleApp1.deps.json
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\bin\Debug\net8.0\ConssoleApp1.runtimeconfig.json
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\bin\Debug\net8.0\ConssoleApp1.dll
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\bin\Debug\net8.0\ConssoleApp1.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ConssoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ConssoleApp1.AssemblyInfoInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ConssoleApp1.AssemblyInfo.cs
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ConssoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ConssoleApp1.dll
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\refint\ConssoleApp1.dll
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ConssoleApp1.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ConssoleApp1.genruntimeconfig.cache
+C:\Users\1409-10\Desktop\Станислав 9а\ConssoleApp1\ConssoleApp1\obj\Debug\net8.0\ref\ConssoleApp1.dll

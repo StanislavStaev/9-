@@ -1,0 +1,7 @@
+C:\Users\1409-10\Desktop\Станислав 9а\formuli\formuli\bin\Debug\formuli.exe.config
+C:\Users\1409-10\Desktop\Станислав 9а\formuli\formuli\bin\Debug\formuli.exe
+C:\Users\1409-10\Desktop\Станислав 9а\formuli\formuli\bin\Debug\formuli.pdb
+C:\Users\1409-10\Desktop\Станислав 9а\formuli\formuli\obj\Debug\formuli.csproj.AssemblyReference.cache
+C:\Users\1409-10\Desktop\Станислав 9а\formuli\formuli\obj\Debug\formuli.csproj.CoreCompileInputs.cache
+C:\Users\1409-10\Desktop\Станислав 9а\formuli\formuli\obj\Debug\formuli.exe
+C:\Users\1409-10\Desktop\Станислав 9а\formuli\formuli\obj\Debug\formuli.pdb
